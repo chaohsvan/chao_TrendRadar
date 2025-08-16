@@ -23,15 +23,7 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
@@ -40,35 +32,46 @@ DJI
 刘慈欣
 郭帆
 
-申奥
-
 京东
 刘强东
 
 字节
 bytedance
 张一鸣
+豆包
 
 特斯拉
 马斯克
+grok
+星链
 
 微软
 Microsoft
+盖茨
+
 
 英伟达
 NVIDIA
 黄仁勋
+CUDA
 
 AMD
+苏姿丰
 
 谷歌
 google
+GOOGLE
 gemini
 deepmind
+安卓
+Android
+
 
 chatgpt
 openai
 sora
+元宝
+混元
 
 claude
 Anthropic
@@ -83,6 +86,7 @@ ai
 人工智能
 
 自动驾驶
+智驾
 
 机器人
 
@@ -111,3 +115,8 @@ ai
 宇宙
 飞船
 航空
+
+研究所
+就业
+失业率
+幸福指数
